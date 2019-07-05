@@ -1,0 +1,1 @@
+PACKAGECONFIG = "libkms udev etnaviv install-test-programs"
