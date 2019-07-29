@@ -13,9 +13,9 @@ S = "${WORKDIR}/git"
 
 PV = "5.0.7"
 
-SRCREV = "f8fa6fdf327f554a40f5fd2f75f98807eb254a22"
+SRCREV = "3ccbce669825529e19645dcfc0de5a6defc17d1f"
 
 SRC_URI = " \ 
-    git://github.com/embtom/linux.git;branch=embtom/v5.0-imx53  \
+    git://github.com/embtom/linux.git;branch=feature/dwav-usb-mt  \
     file://defconfig \
 "
